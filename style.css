@@ -1,0 +1,22 @@
+#tabel_login{
+  border:0;
+  cellpadding:5;
+  cellspacing:0;
+  color: #DEB887;
+  background: #483D8B;
+}
+.btn_login{
+background: #FFEBCD;
+
+}
+.tulis{
+  color: #F0F8FF;
+}
+
+#tabel_daftar{
+  border: 0;
+  cellpadding:5;
+  cellspacing:0;
+  color: #DEB887;
+  background: #556B2F;
+}
