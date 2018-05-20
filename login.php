@@ -1,8 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <title>Login</title>
+    <meta charsey="utf-8">
+    <title>LOGIN</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
     <link rel="stylesheet" href="style.css" type="text/css">
   </head>
   <body>
