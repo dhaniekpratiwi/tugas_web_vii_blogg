@@ -27,12 +27,12 @@ if ($akun = mysqli_fetch_assoc($select)) {
     header('location:index.php');
 
   } else {
-    echo "<h3>maaf password tidak cocok untuk akun ".$username."</h3><br>";
+    echo "<h3>Maaf password tidak cocok untuk akun ".$username."</h3><br>";
     echo '<a href="login.php">Kembali</a>';
   }
 
 } else {
-  echo "<h3>Maaf kami tdk menemukan username ".$username." dalam database </h3><br>";
+  echo "<h3>Maaf kami tidak menemukan username ".$username." dalam database </h3><br>";
   echo '<a href="login.php">Kembali</a>';
 }
  ?>
